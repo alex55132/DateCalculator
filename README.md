@@ -1,6 +1,6 @@
 # DateCalculator
 ### Class made for calculate dates by the milliseconds
-====
+-----------------------
 ### Example use(getting a date and adding 1 year)
 ```java
         DateCalculator calc = new DateCalculator();
